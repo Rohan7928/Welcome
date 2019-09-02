@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458214519496",
+    "firebase_url": "https://phonic-entity-233905.firebaseio.com",
+    "project_id": "phonic-entity-233905",
+    "storage_bucket": "phonic-entity-233905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458214519496:android:43a5e9f98d716ab9",
+        "android_client_info": {
+          "package_name": "com.example.welcome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458214519496-a1082unmqgpbr0ibqb3gqcbfsgp1giuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welcome",
+            "certificate_hash": "b32ee3a44385cc46eb82813d1ce643717f980c24"
+          }
+        },
+        {
+          "client_id": "458214519496-pfijao2s08loqie24ieiqpc26m419vap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWE2XLzbzdDgMOsNSuePGSWrN0T95XFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458214519496-pfijao2s08loqie24ieiqpc26m419vap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
